@@ -1,0 +1,22 @@
+{
+  "name": "gisa-wysiwyg",
+  "version": "0.0.1",
+  "description": "Writing WYSIWYG offline application for Korean journalists",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/ysudream/sunbi",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo"
+  ],
+  "author": "GitHub",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^11.1.0"
+  }
+}
