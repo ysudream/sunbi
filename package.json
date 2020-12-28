@@ -1,4 +1,5 @@
 {
+
   "name": "gisa-wysiwyg",
   "version": "0.0.1",
   "description": "Writing WYSIWYG offline application for Korean journalists",
@@ -20,3 +21,4 @@
     "electron": "^11.1.0"
   }
 }
+
